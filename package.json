@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "repo for advent of code 2024",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "advent-of-code-2024"
+  ],
+  "author": "YohAdams",
+  "license": "ISC"
+}
